@@ -1,1 +1,1 @@
->根据Django2 By Example 第10章 11章编写 [链接](http://www.conyli.cc/chapter10.html)
+>根据Django2 By Example 第10章 11 12章编写 [链接](http://www.conyli.cc/chapter10.html)
